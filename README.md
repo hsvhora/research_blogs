@@ -20,6 +20,7 @@ Welcome to my collection of cybersecurity research publications! This repository
 - [🔬 Hold – Verify – Execute: Rise of Malicious POCs Targeting Security Researchers](https://www.cybersecurity-insiders.com/hold-verify-execute-rise-of-malicious-pocs-targeting-security-researchers/)
 - [🔬 CVE-2024-46909 - RCE in WhatsUp Gold: Analysis and Mitigation](https://www.sonicwall.com/blog/remote-code-execution-vulnerability-in-whatsup-gold-cve-2024-46909-analysis-and-mitigation)
 - [🔬 Critical Mautic Vulnerability (CVE-2024-47051) Enables Arbitrary File Uploads](https://www.sonicwall.com/blog/critical-mautic-vulnerability-cve-2024-47051-enables-arbitrary-file-uploads)
+- [🔬 Protect Your Network: Mitigating the Latest Vulnerability (CVE-2024-5008) in Progress WhatsUp Gold](https://www.sonicwall.com/blog/protect-your-network-mitigating-the-latest-vulnerability-cve-2024-5008-in-progress-whatsup-gold)
 
 ---
 
@@ -31,6 +32,13 @@ Welcome to my collection of cybersecurity research publications! This repository
 - [🛠️ Insecure Deserialization Vulnerability (CVE-2024-8069) in Citrix Session Recording](https://www.sonicwall.com/blog/insecure-deserialization-vulnerability-cve-2024-8069-in-citrix-session-recording)
 - [🛠️ Apache Struts Unauthorized Arbitrary File Upload - CVE-2023-50164](https://www.sonicwall.com/blog/apache-struts-unauthorized-arbitrary-file-upload)
 - [🛠️ JetBrains TeamCity Authentication Bypass Vulnerability - CVE-2024-27198](https://www.sonicwall.com/blog/jetbrains-teamcity-authentication-bypass-vulnerabilities)
+- [🛠️ Insecure Deserialization in Veeam Backup and Replication: CVE-2024-40711](https://www.sonicwall.com/blog/insecure-deserialization-in-veeam-backup-and-replication-cve-2024-40711)
+- [🛠️ Command Injection and Local File Inclusion in Grafana: CVE-2024-9264](https://www.sonicwall.com/blog/command-injection-and-local-file-inclusion-in-grafana-cve-2024-9264)
+- [🛠️ GeoServer RCE Vulnerability (CVE-2024-36401) Being Exploited In the Wild](https://www.sonicwall.com/blog/geoserver-rce-vulnerability-cve-2024-36401-being-exploited-in-the-wild)
+- [🛠️ High-Risk Path Traversal in SolarWinds Serv-U - CVE-2024-28995](https://www.sonicwall.com/blog/high-risk-path-traversal-in-solarwinds-serv-u)
+- [🛠️ Confluence Data Center and Server Remote Code Execution Vulnerability - CVE-2024-21683](https://www.sonicwall.com/blog/confluence-data-center-and-server-remote-code-execution-vulnerability)
+- [🛠️ Ivanti Server-Side Request Forgery to Auth-Bypass - CVE-2024-21893](https://www.sonicwall.com/blog/ivanti-server-side-request-forgery-to-auth-bypass)
+- [🛠️ GitLab Account Takeover - CVE-2023-7028](https://www.sonicwall.com/blog/gitlab-account-takeover)
 
 ---
 
