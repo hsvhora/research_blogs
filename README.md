@@ -15,7 +15,7 @@ Welcome to my collection of cybersecurity research publications! This repository
 ---
 
 ## 🔬 Original Research & N-day Analysis
-*My research efforts — uncovering new attack vectors, threat actor tcctics, security concepts, and analysis of N-day vulnerabilities without public POCs.*
+*My research efforts — uncovering new attack vectors, threat actor tactics, security concepts, and analysis of N-day vulnerabilities without public POCs.*
 
 - [🔬 Hold – Verify – Execute: Rise of Malicious POCs Targeting Security Researchers](https://www.cybersecurity-insiders.com/hold-verify-execute-rise-of-malicious-pocs-targeting-security-researchers/)
 - [🔬 CVE-2024-46909 - RCE in WhatsUp Gold: Analysis and Mitigation](https://www.sonicwall.com/blog/remote-code-execution-vulnerability-in-whatsup-gold-cve-2024-46909-analysis-and-mitigation)
