@@ -44,7 +44,7 @@ Welcome to my collection of cybersecurity research publications! This repository
 
 ## 💡 About Me
 
-I’m a Threat Researcher mainly focusing to identify, analyze and mitigate critical vulnerabilities. I actively monitor zero days and novel threats by keeping an eye on the Open-Source Threat Intelligence (OSINT) space using various methods including leveraging the power of automation. I’m a seasoned vulnerability researcher, specializing in the development of protection signatures in Intrusion Prevention Systems (IPS) and Web Application Firewalls (WAF). 💻⚔️
+I’m a Threat Researcher mainly focusing to identify, analyze and mitigate critical vulnerabilities. I actively monitor zero days and novel threats by keeping an eye on the Open-Source Threat Intelligence (OSINT) space using various methods including leveraging the power of automation. I’m a seasoned vulnerability researcher, specializing in the development of protection signatures in Intrusion Prevention Systems (IPS) and Web Application Firewalls (WAF). 🧱
 
 Feel free to connect!
 
