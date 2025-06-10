@@ -27,6 +27,7 @@ Welcome to my collection of cybersecurity research publications! This repository
 ## 🔍 Vulnerability Analysis
 *In-depth analysis of known vulnerabilities, CVEs, exploitation techniques, root cause analysis, and interesting bug breakdowns.*
 
+- [🛠️ High-Severity Open Redirect Vulnerability in Grafana Leads to Account Takeover: CVE-2025-4123](https://www.sonicwall.com/blog/high-severity-open-redirect-vulnerability-in-grafana-leads-to-account-takeover-cve-2025-4123)
 - [🛠️ Understanding and Addressing Kubernetes Command Injection (CVE-2024-9042)](https://www.sonicwall.com/blog/understanding-and-addressing-kubernetes-command-injection-cve-2024-9042-)
 - [🛠️ Windows LDAP Denial of Service Vulnerability (CVE-2024-49113): Crucial Information and How to Stay Protected](https://www.sonicwall.com/blog/windows-ldap-dos-vulnerability-cve-2024-49113-what-you-need-to-know-and-tips-for-staying-protected)
 - [🛠️ Insecure Deserialization Vulnerability (CVE-2024-8069) in Citrix Session Recording](https://www.sonicwall.com/blog/insecure-deserialization-vulnerability-cve-2024-8069-in-citrix-session-recording)
@@ -54,4 +55,4 @@ Feel free to connect!
 🌐 **Portfolio/Website**: [SonicWall Blogs](https://www.sonicwall.com/blog/authors/hasib-vhora)
 
 ---
-*Last updated: April 16, 2025*
+*Last updated: June 10, 2025*
