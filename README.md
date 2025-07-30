@@ -27,6 +27,7 @@ Welcome to my collection of cybersecurity research publications! This repository
 ## 🔍 Vulnerability Analysis
 *In-depth analysis of known vulnerabilities, CVEs, exploitation techniques, root cause analysis, and interesting bug breakdowns.*
 
+- [🛠️ Wing FTP Server Remote Code Execution: CVE-2025-47812](https://www.sonicwall.com/blog/wing-ftp-server-remote-code-execution-cve-2025-47812)
 - [🛠️ High-Severity Open Redirect Vulnerability in Grafana Leads to Account Takeover: CVE-2025-4123](https://www.sonicwall.com/blog/high-severity-open-redirect-vulnerability-in-grafana-leads-to-account-takeover-cve-2025-4123)
 - [🛠️ Understanding and Addressing Kubernetes Command Injection (CVE-2024-9042)](https://www.sonicwall.com/blog/understanding-and-addressing-kubernetes-command-injection-cve-2024-9042-)
 - [🛠️ Windows LDAP Denial of Service Vulnerability (CVE-2024-49113): Crucial Information and How to Stay Protected](https://www.sonicwall.com/blog/windows-ldap-dos-vulnerability-cve-2024-49113-what-you-need-to-know-and-tips-for-staying-protected)
