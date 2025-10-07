@@ -27,6 +27,7 @@ Welcome to my collection of cybersecurity research publications! This repository
 ## 🔍 Vulnerability Analysis
 *In-depth analysis of known vulnerabilities, CVEs, exploitation techniques, root cause analysis, and interesting bug breakdowns.*
 
+- [🛠️ Exploited in the Wild: DELMIA Apriso Insecure Deserialization (CVE-2025-5086)](https://www.sonicwall.com/blog/exploited-in-the-wild-delmia-apriso-insecure-deserialization-cve-2025-5086-)
 - [🛠️ Wing FTP Server Remote Code Execution: CVE-2025-47812](https://www.sonicwall.com/blog/wing-ftp-server-remote-code-execution-cve-2025-47812)
 - [🛠️ High-Severity Open Redirect Vulnerability in Grafana Leads to Account Takeover: CVE-2025-4123](https://www.sonicwall.com/blog/high-severity-open-redirect-vulnerability-in-grafana-leads-to-account-takeover-cve-2025-4123)
 - [🛠️ Understanding and Addressing Kubernetes Command Injection (CVE-2024-9042)](https://www.sonicwall.com/blog/understanding-and-addressing-kubernetes-command-injection-cve-2024-9042-)
@@ -56,4 +57,4 @@ Feel free to connect!
 🌐 **Portfolio/Website**: [SonicWall Blogs](https://www.sonicwall.com/blog/authors/hasib-vhora)
 
 ---
-*Last updated: July 30, 2025*
+*Last updated: Oct 7, 2025*
