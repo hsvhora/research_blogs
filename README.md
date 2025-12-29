@@ -59,4 +59,4 @@ Feel free to connect!
 🌐 **Portfolio/Website**: [SonicWall Blogs](https://www.sonicwall.com/blog/authors/hasib-vhora)
 
 ---
-*Last updated: Oct 7, 2025*
+*Last updated: Dec 29, 2025*
