@@ -27,6 +27,7 @@ Welcome to my collection of cybersecurity research publications! This repository
 ## 🔍 Vulnerability Analysis
 *In-depth analysis of known vulnerabilities, CVEs, exploitation techniques, root cause analysis, and interesting bug breakdowns.*
 
+- [🛠️ Multiple vulnerabilities in SolarWinds Web Help Desk Leading to RCE: CVE-2025-40551](https://www.sonicwall.com/blog/multiple-vulnerabilities-in-solarwinds-web-help-desk-leading-to-rce-cve-2025-40551)
 - [🛠️ Maximum Severity Unauthenticated Remote Code Execution in HPE OneView: CVE-2025-37164](https://www.sonicwall.com/blog/maximum-severity-unauthenticated-remote-code-execution-in-hpe-oneview-cve-2025-37164)
 - [🛠️ Oracle E-Business Suite Under Siege: Active Exploitation of Dual Zero-Days](https://www.sonicwall.com/blog/oracle-e-business-suite-under-siege-active-exploitation-of-dual-zero-days)
 - [🛠️ Exploited in the Wild: DELMIA Apriso Insecure Deserialization (CVE-2025-5086)](https://www.sonicwall.com/blog/exploited-in-the-wild-delmia-apriso-insecure-deserialization-cve-2025-5086-)
