@@ -27,6 +27,7 @@ Welcome to my collection of cybersecurity research publications! This repository
 ## 🔍 Vulnerability Analysis
 *In-depth analysis of known vulnerabilities, CVEs, exploitation techniques, root cause analysis, and interesting bug breakdowns.*
 
+- [🛠️ From Token Theft to Full System Takeover: Breaking OpenClaw’s RCE Flaw (CVE-2026-25253)](https://www.sonicwall.com/blog/openclaw-auth-token-theft-leading-to-rce-cve-2026-25253)
 - [🛠️ Multiple vulnerabilities in SolarWinds Web Help Desk Leading to RCE: CVE-2025-40551](https://www.sonicwall.com/blog/multiple-vulnerabilities-in-solarwinds-web-help-desk-leading-to-rce-cve-2025-40551)
 - [🛠️ Maximum Severity Unauthenticated Remote Code Execution in HPE OneView: CVE-2025-37164](https://www.sonicwall.com/blog/maximum-severity-unauthenticated-remote-code-execution-in-hpe-oneview-cve-2025-37164)
 - [🛠️ Oracle E-Business Suite Under Siege: Active Exploitation of Dual Zero-Days](https://www.sonicwall.com/blog/oracle-e-business-suite-under-siege-active-exploitation-of-dual-zero-days)
@@ -60,4 +61,4 @@ Feel free to connect!
 🌐 **Portfolio/Website**: [SonicWall Blogs](https://www.sonicwall.com/blog/authors/hasib-vhora)
 
 ---
-*Last updated: Feb 12, 2026*
+*Last updated: March 6, 2026*
